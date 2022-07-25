@@ -18,6 +18,10 @@ atráves das consultas direto pelo usuário, onde se muda o tipo e ao clicar em 
 @kalunga123, toda essa consulta e o login são uma consulta "fake" pois era meu primeiro semestre e ainda não sabia integrar o banco de dados com javascript então tudo
 foi feito atráves de scritps em javascript vanilla.
 
-/* GIF Mostrando Login e Rastreio \*;
+Rastreio:
+![](https://github.com/otavioguisilva/Sobre-Mim/ADSgifRastreio.gif)
+
+Ajuda: 
+![](https://github.com/otavioguisilva/Sobre-Mim/ADSgifAjuda.gif)
 
 Mais informações sobre mim em meu Linkedin;
