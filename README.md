@@ -6,7 +6,7 @@ Um aprendiz em programação ainda, trabalho em diversos projetos na minha empre
 ### Readook
 Um aplicativo feito em React-Native para aluguel, venda e doação de livros, onde todo o acesso ao banco foi feito por mim em nodeJS com express utilizando inclusive de WebSockets com o Socket.io para criar um chat em tempo real, com notificações das mensagens, a parte de Login, retorno de informações do banco, e a tela e funcionamento do Chat e das notificações foi feito inteiramente por mim, as demais telas teve a colaboração de terceiros.
 
-/* GIF Mostrando o funcionamento da notificação e Chat \*;
+![](https://github.com/otavioguisilva/Sobre-Mim/blob/main/ReadookChatNotification.gif)
 
 ### TaskController
 
