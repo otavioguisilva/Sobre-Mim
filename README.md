@@ -1,8 +1,9 @@
 # Sobre Mim
 - Experiência com Back-End Java e NodeJs;
-- Experiência com Front-End em Javascript, jQuery, HTML, CSS e JavaFX.
+- Experiência com Front-End em Javascript, jQuery, HTML, CSS e JavaFX;
 - Estudo e Projetos Pessoais em React e ReactNative;
 - Experiência com Desenvolvimento de Sistemas em Visual Fox Pro 9 e Java Mobile e Desktop;
+- Experiencia com Banco de Dados Relacionais, sendo primariamente em MySQL.
 
 ## Alguns Projetos
 
